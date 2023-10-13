@@ -289,7 +289,8 @@
 <details>
 <summary>ERD</summary>
 <div markdown="1">       
-    <img src="https://hackmd.io/_uploads/SJKl2Mj32.png" alt="ERD 페이지"/>
+    <img src="https://tripickbucket.s3.ap-northeast-2.amazonaws.com/README/erd1.JPG" alt="ERD 페이지"/>
+    <img src="https://tripickbucket.s3.ap-northeast-2.amazonaws.com/README/erd2.png" alt="ERD 페이지"/>
 </div>
 </details>
 
