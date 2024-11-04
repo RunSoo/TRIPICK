@@ -390,8 +390,7 @@ uvicorn main:app --reload
 https://youtu.be/Z7xU5HUj5xw
 
 ---
-## ❤ 팀원 소개
-<img src="https://tripickbucket.s3.ap-northeast-2.amazonaws.com/README/003.png" alt="기획"/>
+
 
 ### Frontend
 |<img src="https://tripickbucket.s3.ap-northeast-2.amazonaws.com/README/%ED%98%84%EC%88%98.png" width="100">|<img src="https://tripickbucket.s3.ap-northeast-2.amazonaws.com/README/%EC%98%88%EC%8A%AC.png" width="100">|
